@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import javax.swing.AbstractListModel;
 import javax.swing.JList;
 
-import com.fredrickw.canvas.paint.Paintable;
+import com.frederickw.canvas.paint.Paintable;
 
 
 /**

@@ -59,15 +59,15 @@ import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 import javax.swing.filechooser.FileFilter;
 
-import com.fredrickw.canvas.paint.PCircle;
-import com.fredrickw.canvas.paint.PImage;
-import com.fredrickw.canvas.paint.PLine;
-import com.fredrickw.canvas.paint.PPolygon;
-import com.fredrickw.canvas.paint.PRectangle;
-import com.fredrickw.canvas.paint.PRoundRect;
-import com.fredrickw.canvas.paint.PString;
-import com.fredrickw.canvas.paint.PaintIO;
-import com.fredrickw.canvas.paint.Paintable;
+import com.frederickw.canvas.paint.PCircle;
+import com.frederickw.canvas.paint.PImage;
+import com.frederickw.canvas.paint.PLine;
+import com.frederickw.canvas.paint.PPolygon;
+import com.frederickw.canvas.paint.PRectangle;
+import com.frederickw.canvas.paint.PRoundRect;
+import com.frederickw.canvas.paint.PString;
+import com.frederickw.canvas.paint.PaintIO;
+import com.frederickw.canvas.paint.Paintable;
 
 
 /**
